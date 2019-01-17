@@ -1,0 +1,13 @@
+Zadani 3:
+
+Cilem bude vytvorit dokument, kde si vyzkousim co mozna nejvic html tagu a zakladni pouzivani css selektoru a barev.
+
+Zadani
+Aktualizovat stranka index.html tak aby obsahovala jeden nadpis h1, tri nadpisy h2 a aspon pet nadpisu h3.
+Pod kazdym nadpisem bude nasledovat cast s obsahem kde muzou byt libovolne pouzite html tagy <p>, <ul> a <li>, <ol> a <li>, <img>, <div>, <b>, <i> a <br>
+
+Kazdy nadpis musi byt cerveny.
+Kazda polozka seznam (<li>) musi mit modrou barvu.
+Kazda seznam (<ul> a <ol>) musi mit odsazeni zleva, pravidlo "padding-left: 20px;"
+Kazdy odstavec musi byt bilou barvou.
+Pozadi dokumentu muze byt dle libosti.

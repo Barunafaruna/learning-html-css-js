@@ -1,3 +1,15 @@
-body, h1, p {
+h1, h2, h3 {
   color: red;
+}
+li {
+  color: blue;
+}
+ul, ol {
+  padding-left: 20px;
+}
+p {
+  color: white;
+}
+body {
+  background-color: black;
 }
